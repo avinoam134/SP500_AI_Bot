@@ -39,15 +39,3 @@ We explore the correlation between the S&P 500 index and the top four technology
 
 This project serves as a comprehensive demonstration of machine learning techniques applied to financial data, showcasing data preprocessing, feature engineering, model selection, evaluation, and visualization.
 
-
-
-
-
-# SP500_AI_Bot
-This project was made by me and was ment demonstrate my knowledge in Python Machine Learning coding using sklearn library:
-- creating a basic model
-- backtesting and improving accordingly.
-- adjusting parameters for optimal decision trees
-- improving data given for predictions and predictions method
-
-I made the this project because i believe AI is the future of the universe and it highly intrigues me. I took it as a chance to explore more regarding the field
